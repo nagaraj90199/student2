@@ -9,7 +9,7 @@ else:
     script name=sys.argv[0]
     name="Nagaraj"
     rollno="101"
-    print("no input given -using default values:")
+    print("no input given - using default values:")
 print("Scipt Name:",scipt_name)
 print("Student Name:",name)
 print("Roll no:",rollno)
